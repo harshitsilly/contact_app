@@ -13,8 +13,8 @@
     "postinstall":"grunt sass: production && build --aot -prod"
   },
   "engines":{
-    "node" : "~6.10.3",
-    "npm": "~3.10.5"
+    "node" : "~6.11.3",
+    "npm": "~5.3.0"
   },
   "private": true,
   "dependencies": {
